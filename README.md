@@ -1,5 +1,5 @@
 # 1337-Translator
-1337 Language Translator Can Be Used to Convert Text into Leet Language 
+1337 Translator Can Be Used to Convert Text into Leet Language 
 <pre>
 There Are Two Versions Of It
 1). Php (GUI)
