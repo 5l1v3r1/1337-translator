@@ -9,3 +9,5 @@ It Depends On You Which One You Wanna Use ^_^
 ~ NetSecNow
 </pre>
 
+###### Donate! 
+Bitcoin: 1A3a1p22EHXWq7muYZc9rGTmRGaithMnjR
