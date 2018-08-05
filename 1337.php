@@ -2,9 +2,9 @@
 <html lang="en">
 	<head>
 		<meta charset="UTF-8" />
-		<title>1337 Translator By NetSecNow</title>
+		<title>1337 Translator By Hak9</title>
 		<meta name="about" content="For Obfuscating Php Code Given" />
-        <meta name="author" content="An0n 3xPloiTeR, Umar Arfeen Shah" />
+        <meta name="author" content="Hak9" />
         <meta name="description" content="For Obfuscating the Php Code given" />
         <meta name="keywords" content="Obfuscator, index.php, Tool" />
         <meta http-equiv="refresh" content=""><!-- For Refreshing The Page After ____ intervals of time -->
@@ -66,7 +66,7 @@
 	<body>
 		<div class="heading">
 			<font>1337 Translator By 
-			<span style="color: red;">NetSecNow</span></font><br>
+			<span style="color: red;">Hak9</span></font><br>
 		</div>
 		<div class="conversion"><center>
 			<form action="" method="POST">

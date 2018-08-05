@@ -18,7 +18,7 @@ banner = r"""
   |   | _(__  <  _(__  <   /    /    |    |  \_  __ \__  \  /    \ /  ___/
   |   |/       \/       \ /    /     |    |   |  | \// __ \|   |  \\___ \ 
   |___/______  /______  //____/      |____|   |__|  (____  /___|  /____  >
-             \/       \/                                 \/     \/     \/ ~ By NetSecNow
+             \/       \/                                 \/     \/     \/ ~ By Hak9
 """
 
 print banner;
@@ -41,4 +41,4 @@ print "\n[$] Result: ", str.translate(manipulation), "\n\a";
 
 # Its Done
 # See YA :D
-# ~ NetSecNow :)	
+# ~ Hak9 :)	
