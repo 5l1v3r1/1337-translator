@@ -39,6 +39,4 @@ manipulation = maketrans(input, output);
 
 print "\n[$] Result: ", str.translate(manipulation), "\n\a";
 
-# Its Done
-# See YA :D
-# ~ Hak9 :)	
+# Its Done	
